@@ -24,39 +24,39 @@
 //         let subof32Numbers=function(sub1 - sub2)
 
         
-        // function takeinPutFromUser (){
-        //     prompt ('Enter any number > 6')
-        // }
-        // let userResponse = prompt(Enter any number > 6)
-        // console.log(5)
-        // let myName = 'ife'
+//         function takeinPutFromUser (){
+//             prompt ('Enter any number > 6')
+//         }
+//         let userResponse = prompt(Enter any number > 6)
+//         console.log(5)
+//         let myName = 'ife'
 
-        // function checkNumber(){
-        //     let num = prompt ('Enter a number');
-        //     if(num > 6) {
-        //         console.log("Number is greater than 6")
-        //     }
-        // }
+//         function checkNumber(){
+//             let num = prompt ('Enter a number');
+//             if(num > 6) {
+//                 console.log("Number is greater than 6")
+//             }
+//         }
 
-        // let checkCharacters = function() {
-        //     let userName = prompt ('Enter your name');
-        //     console.log('Your name is' + userName.length + 'long')
+//         let checkCharacters = function() {
+//             let userName = prompt ('Enter your name');
+//             console.log('Your name is' + userName.length + 'long')
  
-        // }
-        // checkCharacters ()
-        // function checkNumber() {
-        //     let num = prompt('Enter a number');
-        //     if (num > 6) {
+//         }
+//         checkCharacters ()
+//         function checkNumber() {
+//             let num = prompt('Enter a number');
+//             if (num > 6) {
                 
-        //     }
-        // }
+//             }
+//         }
 
-    //    let checkParameters = function 
-    //     let maxnum = prompt('Enter four numbers');
-    //     console.log('Highesst number')
+//        let checkParameters = function 
+//         let maxnum = prompt('Enter four numbers');
+//         console.log('Highesst number')
        
 
-    //    checkParameters ()
+//        checkParameters ()
 
         
         
@@ -65,6 +65,15 @@
 // Another Method of Writing a  function
 // ARROW FUNCTION
 
-const greetMe = () => {
-    
-}
+// const greetMe = () => {
+
+
+
+H0ISTING
+
+var myName;
+var myName2;
+var myName3;
+var myName3;
+
+console.log(myName)
