@@ -77,3 +77,8 @@ var myName3;
 var myName3;
 
 console.log(myName)
+
+Another Method of Writing a  function
+// ARROW FUNCTION
+
+// const greetMe = () => {
